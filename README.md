@@ -55,8 +55,12 @@ Before running the project, ensure you have:
 Follow these steps to set up and run the project locally:
 
 ### 1. Clone the repository
-```bash
+<pre>
+<code>
 git clone https://github.com/Tamoghno-Das/tutorial-management-system-using-jdbc.git
 cd tutorial-management-system-using-jdbc
+</pre>
+</code>
 
 ---
+
