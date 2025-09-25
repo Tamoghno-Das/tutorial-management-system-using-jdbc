@@ -97,9 +97,9 @@ INSERT INTO tutorials (title, description, published) VALUES
 #### In your database connection class, set:
 
 ##### IN my case : 
-URL : "jdbc:oracle:thin:@//localhost:1521/ORCL"
-USER : c##scott
-PASSWORD : tiger
+*URL :*  "jdbc:oracle:thin:@//localhost:1521/ORCL" <br>
+*USER :* c##scott <br>
+*PASSWORD :* tiger <br>
 
 ```java
 String jdbcUrl = "your_database_url";
