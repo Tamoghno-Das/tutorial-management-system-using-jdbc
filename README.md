@@ -237,6 +237,6 @@ file for details.
 
 ### 📧 Contact
 - Author: Tamoghno Das
-- Email: (add your email here if you’d like)
+- Email: tamoghnowork05@gmail.com
 
 
